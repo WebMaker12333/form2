@@ -1,0 +1,28 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ffe5cc;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #663300;
+}
+
+header {
+    background-color: #ffcc99;
+    padding: 15px;
+    border-bottom: 5px solid #ff9966;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    font-size: 50px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
